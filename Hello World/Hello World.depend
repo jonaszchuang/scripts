@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588814234 source:/home/ijkl/Code/Hello World/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

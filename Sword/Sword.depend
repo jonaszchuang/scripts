@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608006954 source:/home/ijkl/Code/Sword/src/Sword.cpp
+	<iostream>
+	"Sword.h"
+
+1608006692 /home/ijkl/Code/Sword/include/Sword.h
+
+1608006771 source:/home/ijkl/Code/Sword/main.cpp
+	<iostream>
+	"Sword.h"
+

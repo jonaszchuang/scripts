@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608755754 source:/home/ijkl/Code/Getters & setters/main.cpp
+	<iostream>
+	"Person.h"
+
+1608755812 /home/ijkl/Code/Getters & setters/include/Person.h
+	<iostream>
+

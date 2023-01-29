@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1595290796 source:/home/ijkl/Code/hangman 2.0/main.cpp
+	<iostream>
+	<string>
+
+1595291588 source:/home/ijkl/Documents/Code/hangman 2.0/main.cpp
+	<iostream>
+	<string>
+

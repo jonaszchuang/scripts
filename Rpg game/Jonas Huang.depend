@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1605893784 source:/home/ijkl/Code/Jonas Huang/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1606698032 source:/home/ijkl/Documents/Code/Jonas Huang/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1607106196 source:/home/ijkl/Code/Rpg game/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+

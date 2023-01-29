@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608760930 source:/home/ijkl/Code/String stream/main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607143995 source:/home/ijkl/Code/huang_jonas_roulette2/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

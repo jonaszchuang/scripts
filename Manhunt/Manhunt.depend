@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1608605607 source:/home/ijkl/Code/Manhunt/main.cpp
+	<iostream>
+	"Speedrunner.h"
+	"Dream.h"
+
+1608605175 /home/ijkl/Code/Manhunt/include/Speedrunner.h
+	<iostream>
+
+1608604873 /home/ijkl/Code/Manhunt/include/Dream.h
+
+1608604873 source:/home/ijkl/Code/Manhunt/src/Dream.cpp
+	<iostream>
+	"Dream.h"
+
+1608604828 source:/home/ijkl/Code/Manhunt/src/Speedrunner.cpp
+	"Speedrunner.h"
+

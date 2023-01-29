@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1609112169 source:/home/ijkl/Code/Cat Wars/src/Cat.cpp
+	"Cat.h"
+	<iostream>
+
+1609111479 /home/ijkl/Code/Cat Wars/include/Cat.h
+	<iostream>
+
+1609111655 source:/home/ijkl/Code/Cat Wars/src/Fangcat.cpp
+	"Fangcat.h"
+
+1609111571 /home/ijkl/Code/Cat Wars/include/Fangcat.h
+	<iostream>
+
+1609111786 source:/home/ijkl/Code/Cat Wars/src/Normalcat.cpp
+	"Normalcat.h"
+
+1609111489 /home/ijkl/Code/Cat Wars/include/Normalcat.h
+	<iostream>
+
+1609111697 source:/home/ijkl/Code/Cat Wars/src/Packcat.cpp
+	"Packcat.h"
+
+1609111582 /home/ijkl/Code/Cat Wars/include/Packcat.h
+	<iostream>
+
+1609112131 source:/home/ijkl/Code/Cat Wars/main.cpp
+	<iostream>
+	"Cat.h"
+	"Normalcat.h"
+	"Packcat.h"
+	"Fangcat.h"
+
